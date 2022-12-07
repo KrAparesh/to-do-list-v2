@@ -2,8 +2,8 @@
 
 Hi and welcome to this to-do-list!
 Although being a simple list, I've tried to use the concept of cookies to make the list remember it's author's name. 
-In order to reset the cookies, use the route /reset
+In order to reset the cookies, use the route /reset.
 
-Name: Aparesh Kumar
-Registration No.: 2141011100
+Name: Aparesh Kumar <br>
+Registration No.: 2141011100 <br>
 Branch: CSE, Section - K
